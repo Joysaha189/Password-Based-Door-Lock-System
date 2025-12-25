@@ -22,11 +22,11 @@ A hardware-based password lock system designed using an 8-bit comparator (IC 748
 
 
 
-!\[Password Lock Output](Block\_Diagram.png)
+!\\\[Password Lock Output](Block\_Diagram.png)
 
 
-**Working Overview**
----
+
+#### **Working Overview**
 
 
 
@@ -62,6 +62,4 @@ Suitable for secure access control in doors, lockers, and embedded hardware syst
 
 
 This project is for academic and educational purposes.
-
-
 

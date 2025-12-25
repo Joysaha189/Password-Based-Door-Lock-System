@@ -4,5 +4,5 @@ Hardware-based password lock using an 8-bit comparator (IC 7485). Tracks failed 
 
 
 
-!\[Password Lock Output](Block%20Diagram.png)
+!\[Password Lock Output](Block_Diagram.png)
 

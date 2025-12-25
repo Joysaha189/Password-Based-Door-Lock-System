@@ -45,6 +45,7 @@ Suitable for secure access control in doors, lockers, and embedded hardware syst
 
 
 
+
 #### Project Status
 
 
@@ -53,9 +54,10 @@ Suitable for secure access control in doors, lockers, and embedded hardware syst
 
 🔧 Open for enhancements and upgrades
 
+#### **Contributors**
 
-
-
+Nazimuddin Ahmed (1706168), Joy Saha (1706189), Ishtiaque Ahmed (1706190), Tasnim Rahman (1706191), Aong Shay Sing Marma (1706195)
+Department of Electrical & Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)
 
 #### **License**
 

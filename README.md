@@ -22,7 +22,7 @@ A hardware-based password lock system designed using an 8-bit comparator (IC 748
 
 
 
-!\\\[Password Lock Output](Block\_Diagram.png)
+![Password Lock Output](Block\_Diagram.png)
 
 
 

@@ -6,7 +6,7 @@ A hardware-based password lock system designed using an 8-bit comparator (IC 748
 
 
 
-#### **Key Features**
+###### **Key Features**
 
 * Password verification using IC 7485
 * Failed-attempt tracking via IC 4017 counter
@@ -18,7 +18,7 @@ A hardware-based password lock system designed using an 8-bit comparator (IC 748
 
 
 
-#### **Block Diagram**
+###### **Block Diagram**
 
 
 
@@ -26,7 +26,7 @@ A hardware-based password lock system designed using an 8-bit comparator (IC 748
 
 
 
-#### **Working Overview**
+###### **Working Overview**
 
 
 
@@ -37,7 +37,7 @@ A hardware-based password lock system designed using an 8-bit comparator (IC 748
 
 
 
-#### **Application**
+###### **Application**
 
 
 
@@ -46,7 +46,7 @@ Suitable for secure access control in doors, lockers, and embedded hardware syst
 
 
 
-#### Project Status
+###### Project Status
 
 
 
@@ -54,7 +54,7 @@ Suitable for secure access control in doors, lockers, and embedded hardware syst
 
 🔧 Open for enhancements and upgrades
 
-#### **Contributors**
+###### **Contributors**
 
 Nazimuddin Ahmed (1706168), Joy Saha (1706189), Ishtiaque Ahmed (1706190), Tasnim Rahman (1706191), Aong Shay Sing Marma (1706195)
 Department of Electrical & Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)
